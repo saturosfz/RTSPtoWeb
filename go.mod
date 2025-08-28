@@ -1,8 +1,8 @@
 module github.com/deepch/RTSPtoWeb
 
-go 1.23.0
+go 1.23
 
-toolchain go1.25.0
+toolchain go1.25
 
 require (
 	github.com/deepch/vdk v0.0.27
